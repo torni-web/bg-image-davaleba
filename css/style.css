@@ -1,0 +1,292 @@
+.header {
+    display: flex;
+    align-items: center;
+}
+.logo {
+    width: 130px;
+    height: 30px;
+    margin: 20px 538px 20px 91px;
+}
+.ol {
+    display: flex;
+    width: 510px;
+    height: 25px;
+    align-items: center;
+    justify-content: space-around;
+}
+.container {
+    width: 1375px;
+    height: 74px;
+    margin: 0 auto;
+}
+.home{
+	font-weight: bold;
+    font-size: 15.74px;
+    font-family: Raleway;
+    color: #303134;
+}
+.about{
+	font-weight: bold;
+    font-size: 15.74px;
+    font-family: Raleway;
+    color: #303134;
+}
+.our servises1 {
+	font-weight: bold;
+    font-size: 15px;
+    font-family: Raleway;
+    color: black;
+}
+.tour package2 {
+	font-weight: bold;
+    font-size: 15px;
+    font-family: Raleway;
+    color: black;
+}
+.background-image {
+    background-image: url(../images/cover.png);
+    height: 600px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+.p1{
+    width: 587px;
+    text-align: left;
+    font-family: Arial;
+    font-size: 78.74px;
+    color: rgb(238, 217, 217);
+}
+.p2{
+	width: 313px;
+    line-height: 37px;
+    margin-top: 36.3px;
+    text-align: left;
+    font-family: Raleway;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgb(218, 205, 205);
+}
+.mtavari {
+    width: 1172px;
+	height: 680px;
+	display: flex;
+	flex-wrap: wrap;
+	margin-top: 75.8px;
+	margin-left: 94.5px;
+}
+.servises {
+    width: 241px;
+	height: 239px;
+	flex-wrap: wrap;
+	display: flex;
+}
+.servises-p1 {
+    width: 80px;
+    white-space: nowrap;
+    line-height: 37px;
+    margin-top: -10px;
+    text-align: left;
+    font-family: Raleway;
+    font-weight: bold;
+    font-size: 16px;
+    color: #8D8D8D;
+}
+.servises-p2 {
+    width: 207px;
+    white-space: nowrap;
+    line-height: 37px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Raleway;
+    font-weight: bold;
+    font-size: 26px;
+    color: #1A1A1B;
+}
+.servises-p3 {
+    width: 242px;
+    height: 145px;
+    line-height: 22px;
+    margin-top: -3px;
+    text-align: left;
+    font-family: Raleway;
+    font-size: 16px;
+    color: #8D8D8D;
+}
+.fly {
+    width: 275px;
+	height: 322px;
+	display: flex;
+	flex-wrap: wrap;
+	margin-left: 51px;
+}
+.flyimagep1 {
+    width: 151px;
+    line-height: 24px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Raleway;
+    font-weight: bold;
+    font-size: 12px;
+    margin-top: 22px;
+}
+.flyimagep2 {
+    width: 260px;
+    height: 91px;
+    line-height: 25px;
+    margin-top: -3px;
+    text-align: left;
+    font-family: Raleway;
+    font-size: 12px;
+    color: gray;
+    margin-top: 8.8px;
+}
+.hotel {
+    width: 269px;
+	height: 327px;
+	display: flex;
+	flex-wrap: wrap;
+	margin-left: 32px;
+}
+.hotelp1 {
+    width: 231px;
+	height: 21px;
+    line-height: 22px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Raleway;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 24px;
+}
+.hotelp2 {
+    width: 267px;
+    height: 91px;
+    line-height: 29px;
+    margin-top: -3px;
+    text-align: left;
+    font-family: Raleway;
+    font-size: 16px;
+    color: #7e5f5f;
+    margin-top: 8px;
+}
+.family {
+    width: 262px;
+	height: 321px;
+	display: flex;
+	flex-wrap: wrap;
+	margin-left: 30px;
+}
+.familyp1 {
+    width: 193px;
+    line-height: 22px;
+    margin-top: -2px;
+    text-align: left;
+    font-family: Raleway;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 22px;
+}
+.familyp2 {
+    width: 261px;
+    height: 90px;
+    line-height: 22px;
+    margin-top: -3px;
+    text-align: left;
+    font-family: Raleway;
+    font-size: 18px;
+    color: #a59a9a;
+    margin-top: 8px;
+}
+.cruise {
+    margin: 22.6px 31.9px 0 300px;
+	width: 269px;
+	height: 327px;
+	display: flex;
+	flex-wrap: wrap;
+}
+.cruisep1 {
+    width: 119px;
+    line-height: 22px;
+    margin-top: -2px;
+    text-align: left;
+    font-family: Raleway;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 22.4px;
+}
+.cruisep2 {
+    width: 268px;
+    height: 94px;
+    line-height: 22px;
+    margin-top: -3px;
+    text-align: left;
+    font-family: Raleway;
+    font-size: 16px;
+    color: #8D8D8D;
+    margin-top: 8.8px;   
+}
+.fire {
+    margin: 21.6px 31px 0 0;
+	width: 269px;
+	height: 327px;
+	display: flex;
+	flex-wrap: wrap;
+}
+.firep1 {
+    width: 119px;
+    line-height: 22px;
+    margin-top: -2px;
+    text-align: left;
+    font-family: Raleway;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 22px;
+}
+.firep2 {
+    width: 268px;
+    height: 94px;
+    line-height: 22px;
+    margin-top: -3px;
+    text-align: left;
+    font-family: Raleway;
+    font-size: 16px;
+    color: #8D8D8D;
+    margin-top: 8.8px;
+}
+.holidays {
+    margin: 21.6px 0 0 0;
+	width: 269px;
+	height: 327px;
+	display: flex;
+	flex-wrap: wrap;
+
+}
+.holidays-p1 {
+    width: 200px;
+    white-space: nowrap;
+    line-height: 22px;
+    margin-top: -2px;
+    text-align: left;
+    font-family: Raleway;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 22.4px;
+
+}
+.holidays-p2 {
+    width: 268px;
+    height: 94px;
+    line-height: 22px;
+    margin-top: -3px;
+    text-align: left;
+    font-family: Raleway;
+    font-size: 16px;
+    color: #8D8D8D;
+    margin-top: 8.8px;
+
+}
+.between {
+    height: 90px;
+}
